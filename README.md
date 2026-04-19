@@ -92,12 +92,6 @@ Feel free to fork the repo and submit pull requests.
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
 ## ⭐ Support
 
 If you like this project, give it a star ⭐ on GitHub!
