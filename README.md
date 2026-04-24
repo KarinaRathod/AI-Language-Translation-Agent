@@ -5,18 +5,6 @@ An AI-powered multi-language translation application built using Streamlit and G
 
 ---
 
-## 🚀 Features
-
-- 🌐 Multi-language translation (10+ languages)
-- 🎯 Tone-aware translation (Formal, Casual, Professional, etc.)
-- 📂 File upload support (TXT, DOCX, PDF)
-- 🔊 Text-to-Speech (browser-based)
-- 📄 Download translated output (TXT & DOCX)
-- ✨ AI-powered translation improvement suggestions
-- ⚡ Fast and lightweight UI
-
----
-
 ## 🛠️ Tech Stack
 
 - Frontend: Streamlit
